@@ -1,6 +1,7 @@
 %% -----------------------------------------
 % Make Figures for Nucleus Volume Paper
 %
+% Descirbed in: Periodicity of nuclear morphology in human fibroblasts
 % Last Update: 9/26/14
 % Author: Laura Seaman
 % Contact: laseaman@umich.edu
