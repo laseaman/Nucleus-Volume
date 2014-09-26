@@ -1,8 +1,11 @@
-%% Make Figures for Nucleus Volume Paper
-% for now as many as possible - Stats seperately in Stats.m
+%% -----------------------------------------
+% Make Figures for Nucleus Volume Paper
+%
+% Last Update: 9/26/14
 % Author: Laura Seaman
-clear all; close all hidden; clc;
+% Contact: laseaman@umich.edu
 % functions used: findAB.m, SKL.m
+%% -----------------------------------------
 
 %% Load Data
 'loading data and calculating averages'
