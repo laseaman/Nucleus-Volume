@@ -1,3 +1,13 @@
+%% -----------------------------------------
+% Calculates Symmetrized Kullback-Leibler Divergence
+%
+% Descirbed in: Periodicity of nuclear morphology in human fibroblasts
+% Last Update: 9/26/14
+% Author: Laura Seaman
+% Contact: laseaman@umich.edu
+%
+%% -----------------------------------------
+
 function Div = SKL(P, Q)
 %Symmetrized Kullback-Leibler Divergence
 % works for vectors or matricies of the same size adds up all elements.
