@@ -1,3 +1,13 @@
+%% -----------------------------------------
+% Calculates optimal basis function fit
+%
+% Descirbed in: Periodicity of nuclear morphology in human fibroblasts
+% Last Update: 9/26/14
+% Author: Laura Seaman
+% Contact: laseaman@umich.edu
+%
+%% -----------------------------------------
+
 function [ alpha, beta, F, Fs ] = findAB( fi,w,times )
 %Finds Alpha and Beta for fitting a single frequency pair of basis
 %functions.
